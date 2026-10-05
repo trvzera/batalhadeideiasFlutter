@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416865709429",
+    "project_id": "flutterideias",
+    "storage_bucket": "flutterideias.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416865709429:android:5c6fd8035dcb50a92ab73c",
+        "android_client_info": {
+          "package_name": "com.example.batalhadeideias"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXxPMIalHLWf6EyfD6lq7YgjFTSI9M5NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
